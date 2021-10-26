@@ -5,6 +5,8 @@
         "lines": [
           1,
           1,
+          1,
+          1,
           null
         ]
       },
@@ -23,12 +25,23 @@
           1,
           2,
           2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
           null,
           null
         ]
       },
       "/Users/heartbeat/turing/3module/projects/rails-engine/app/models/invoice_item.rb": {
         "lines": [
+          1,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -45,11 +58,20 @@
           2,
           2,
           null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
           null
         ]
       },
       "/Users/heartbeat/turing/3module/projects/rails-engine/app/models/invoice.rb": {
         "lines": [
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -65,15 +87,23 @@
           1,
           2,
           2,
+          2,
+          2,
           null,
           null,
           1,
+          2,
+          2,
           null,
           null
         ]
       },
       "/Users/heartbeat/turing/3module/projects/rails-engine/app/models/item.rb": {
         "lines": [
+          1,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -87,14 +117,18 @@
           1,
           1,
           2,
-          2,
           null,
+          null,
+          1,
+          2,
+          2,
           null,
           null
         ]
       },
       "/Users/heartbeat/turing/3module/projects/rails-engine/app/models/merchant.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -108,6 +142,13 @@
           1,
           1,
           2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
           null,
           null
         ]
@@ -116,10 +157,14 @@
         "lines": [
           1,
           1,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       }
     },
-    "timestamp": 1635269735
+    "timestamp": 1635278336
   }
 }

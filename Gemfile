@@ -25,6 +25,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 
 gem 'simplecov', require: false, group: :test
 gem 'bcrypt'
+gem 'jsonapi-serializer'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
@@ -34,6 +35,7 @@ group :development, :test do
   gem 'vcr'
   gem 'webmock'
   gem 'figaro'
+  gem 'pry'
 end
 
 group :development do
